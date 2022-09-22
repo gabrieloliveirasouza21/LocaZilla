@@ -2,15 +2,17 @@
 
 > Status : Iniciando a decolagem! 🚀
 
-# Cadastros: 📂
-## Veículos 
-## Marcas
-## Clientes
+## Funções! 🛸
 
-# Consultas: 📝
-## Clientes
-## Status do veículos
-## Financeiro
++ Cadastros: 📂
+- Veículos 
+- Marcas
+- Clientes
+
++ Consultas: 📝
+- Clientes
+- Status do veículos
+- Financeiro
 
 
 
@@ -28,13 +30,8 @@ GitHub | 20%
 
 Desenvolvedores | Analistas de requisitos | Gerentes de projeto
 :--------- | :------: | -------:
-[GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21  | [GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21 | [GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21 
-[HugoDias95](https://github.com/HugoDias95) |
-[PedroAugusto-Sys](https://github.com/PedroAugusto-Sys |
-
-
-
-
-
+[GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21)  | [GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21) | [GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21) 
+[HugoDias95](https://github.com/HugoDias95) | [HugoDias95](https://github.com/HugoDias95) | [HugoDias95](https://github.com/HugoDias95) 
+[PedroAugusto-Sys](https://github.com/PedroAugusto-Sys) | [PedroAugusto-Sys](https://github.com/PedroAugusto-Sys) | [PedroAugusto-Sys](https://github.com/PedroAugusto-Sys) 
 
 
