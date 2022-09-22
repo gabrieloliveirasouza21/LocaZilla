@@ -4,12 +4,12 @@
 
 ## Funções! 🛸
 
-+ Cadastros: 📂
+##### Cadastros: 📂
 - Veículos 
 - Marcas
 - Clientes
 
-+ Consultas: 📝
+##### Consultas: 📝
 - Clientes
 - Status do veículos
 - Financeiro
