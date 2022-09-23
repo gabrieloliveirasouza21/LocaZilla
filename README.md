@@ -2,22 +2,20 @@
 
 > Status : Iniciando a decolagem! 🚀
 
-## Funções! 🛸
-
-##### Cadastros: 📂
+ - ## Funções! 🛸
+   ### Cadastros: 📂
 - Veículos 
 - Marcas
 - Clientes
 
-##### Consultas: 📝
+ - ### Consultas de: 📝
 - Clientes
 - Status do veículos
 - Financeiro
 
 
 
-
-> ### Ferramentas 📊
+- ## Ferramentas 📊
 
 Ferramentas | %
 ------------ | ------
@@ -26,7 +24,7 @@ Astah | 20%
 GitHub | 20%
 
 
-> ### Equipe 🌌
+- ## Equipe 🌌
 
 Desenvolvedores | Analistas de requisitos | Gerentes de projeto
 :--------- | :------: | -------:
