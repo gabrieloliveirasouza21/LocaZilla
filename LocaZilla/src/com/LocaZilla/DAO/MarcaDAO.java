@@ -20,6 +20,8 @@ public class MarcaDAO implements IMarcaDAO{
     private String nomeDoArquivoNoDisco;
     public MarcaDAO() {
         nomeDoArquivoNoDisco = "./src/com/LocaZilla/Dados/Marca.txt";
+        
+        //./src/com/locagyn/arquivosdedados/Marca.txt
     }
     
     @Override
