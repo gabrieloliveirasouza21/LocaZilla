@@ -114,6 +114,7 @@ public class TelaOperador extends javax.swing.JFrame {
         TelaPrincipal telaPrincipal = new TelaPrincipal(); // objeto tela principal
         telaPrincipal.setVisible(true); // mostrar tela
         jButtonLogar.setEnabled(false);
+        
     }//GEN-LAST:event_jButtonLogarActionPerformed
 
     private void jPasswordFieldSenhaOperadorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jPasswordFieldSenhaOperadorActionPerformed
@@ -124,7 +125,7 @@ public class TelaOperador extends javax.swing.JFrame {
     }//GEN-LAST:event_jPasswordFieldSenhaOperadorActionPerformed
 
     private void jButtonFecharActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonFecharActionPerformed
-        // TODO add your handling code here:
+        System.exit(0);
     }//GEN-LAST:event_jButtonFecharActionPerformed
 
     /**

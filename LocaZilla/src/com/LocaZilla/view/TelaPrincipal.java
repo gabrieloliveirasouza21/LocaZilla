@@ -31,8 +31,8 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
         jMenuBar1 = new javax.swing.JMenuBar();
         jMenuCadastros = new javax.swing.JMenu();
-        jMenuItem1 = new javax.swing.JMenuItem();
-        jMenuItem2 = new javax.swing.JMenuItem();
+        jMenuCadastrosClientes = new javax.swing.JMenuItem();
+        jMenuItemCadastrosMarcas = new javax.swing.JMenuItem();
         jMenuConsultas = new javax.swing.JMenu();
         jMenuControle = new javax.swing.JMenu();
         jMenuOutros = new javax.swing.JMenu();
@@ -43,25 +43,25 @@ public class TelaPrincipal extends javax.swing.JFrame {
 
         jMenuCadastros.setText("Cadastros");
 
-        jMenuItem1.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_P, java.awt.event.InputEvent.SHIFT_DOWN_MASK | java.awt.event.InputEvent.CTRL_DOWN_MASK));
-        jMenuItem1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/LocaZilla/imagens/operador/operadorCadastro.png"))); // NOI18N
-        jMenuItem1.setText("Clientes");
-        jMenuItem1.addActionListener(new java.awt.event.ActionListener() {
+        jMenuCadastrosClientes.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_P, java.awt.event.InputEvent.SHIFT_DOWN_MASK | java.awt.event.InputEvent.CTRL_DOWN_MASK));
+        jMenuCadastrosClientes.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/LocaZilla/imagens/operador/operadorCadastro.png"))); // NOI18N
+        jMenuCadastrosClientes.setText("Clientes");
+        jMenuCadastrosClientes.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem1ActionPerformed(evt);
+                jMenuCadastrosClientesActionPerformed(evt);
             }
         });
-        jMenuCadastros.add(jMenuItem1);
+        jMenuCadastros.add(jMenuCadastrosClientes);
 
-        jMenuItem2.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_M, java.awt.event.InputEvent.SHIFT_DOWN_MASK | java.awt.event.InputEvent.CTRL_DOWN_MASK));
-        jMenuItem2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/LocaZilla/imagens/operador/cadastroMarcas.png"))); // NOI18N
-        jMenuItem2.setText("Marcas");
-        jMenuItem2.addActionListener(new java.awt.event.ActionListener() {
+        jMenuItemCadastrosMarcas.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_M, java.awt.event.InputEvent.SHIFT_DOWN_MASK | java.awt.event.InputEvent.CTRL_DOWN_MASK));
+        jMenuItemCadastrosMarcas.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/LocaZilla/imagens/operador/cadastroMarcas.png"))); // NOI18N
+        jMenuItemCadastrosMarcas.setText("Marcas");
+        jMenuItemCadastrosMarcas.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMenuItem2ActionPerformed(evt);
+                jMenuItemCadastrosMarcasActionPerformed(evt);
             }
         });
-        jMenuCadastros.add(jMenuItem2);
+        jMenuCadastros.add(jMenuItemCadastrosMarcas);
 
         jMenuBar1.add(jMenuCadastros);
 
@@ -94,13 +94,16 @@ public class TelaPrincipal extends javax.swing.JFrame {
         setLocationRelativeTo(null);
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jMenuItem1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem1ActionPerformed
+    private void jMenuCadastrosClientesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuCadastrosClientesActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jMenuItem1ActionPerformed
+    }//GEN-LAST:event_jMenuCadastrosClientesActionPerformed
 
-    private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem2ActionPerformed
+    private void jMenuItemCadastrosMarcasActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItemCadastrosMarcasActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jMenuItem2ActionPerformed
+        TelaDasMarcas telaCadastroMarcas = new TelaDasMarcas();
+        telaCadastroMarcas.setVisible(true);
+        
+    }//GEN-LAST:event_jMenuItemCadastrosMarcasActionPerformed
 
     /**
      * @param args the command line arguments
@@ -141,10 +144,10 @@ public class TelaPrincipal extends javax.swing.JFrame {
     private javax.swing.JMenu jMenuAjuda;
     private javax.swing.JMenuBar jMenuBar1;
     private javax.swing.JMenu jMenuCadastros;
+    private javax.swing.JMenuItem jMenuCadastrosClientes;
     private javax.swing.JMenu jMenuConsultas;
     private javax.swing.JMenu jMenuControle;
-    private javax.swing.JMenuItem jMenuItem1;
-    private javax.swing.JMenuItem jMenuItem2;
+    private javax.swing.JMenuItem jMenuItemCadastrosMarcas;
     private javax.swing.JMenu jMenuOutros;
     // End of variables declaration//GEN-END:variables
 }
