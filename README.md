@@ -1,6 +1,6 @@
 # LocaZilla 🚗
 
-> Status : Iniciando a decolagem! 🚀
+> Status : Algumas turbulências! Coloquem os cintos! 👻
 
  - ## Funções! 🛸
    ### Cadastros: 📂
@@ -8,14 +8,12 @@
 - Marcas
 - Clientes
 
- - ### Consultas de: 📝
+   ### Consultas de: 📝
 - Clientes
 - Status do veículos
 - Financeiro
 
-
-
-- ## Ferramentas 📊
+   ### Ferramentas 📊
 
 Ferramentas | %
 ------------ | ------
@@ -28,8 +26,7 @@ GitHub | 20%
 
 Desenvolvedores | Analistas de requisitos | Gerentes de projeto
 :--------- | :------: | -------:
-[GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21)  | [GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21) | [GabrielOliveiraSouza21](https://github.com/GabrielOliveiraSouza21) 
-[HugoDias95](https://github.com/HugoDias95) | [HugoDias95](https://github.com/HugoDias95) | [HugoDias95](https://github.com/HugoDias95) 
 [PedroAugusto-Sys](https://github.com/PedroAugusto-Sys) | [PedroAugusto-Sys](https://github.com/PedroAugusto-Sys) | [PedroAugusto-Sys](https://github.com/PedroAugusto-Sys) 
+[HugoDias95](https://github.com/HugoDias95) | [HugoDias95](https://github.com/HugoDias95) | [HugoDias95](https://github.com/HugoDias95) 
 
 
